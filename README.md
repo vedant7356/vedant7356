@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedant7356
-- 👀 Android Devloper 
+- 👀 Android Developer 
 - 🌱 Android in Java and Kotlin
 - 💞️ I’m looking to collaborate on mobile applications for startup companies
 - 📫 How to reach me - vedantprabhu@yahoo.com
