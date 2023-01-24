@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedant7356
-- 👀 I’m interested in Android Devlopment
-- 🌱 I’m currently learning Java and Android
+- 👀 Android Devloper 
+- 🌱 Android in Java and Kotlin
 - 💞️ I’m looking to collaborate on mobile applications for startup companies
 - 📫 How to reach me - vedantprabhu@yahoo.com
 - Founder of CodeDeed
